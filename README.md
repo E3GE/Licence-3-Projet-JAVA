@@ -3,8 +3,8 @@
 * Année : 2017
 * Contexte : Projet FAC
 * Type : Jeu
-* langage  : JAVA
-* bibliothèque : fr.ubordeaux.simpleUI
+* Langage  : JAVA
+* Bibliothèque : fr.ubordeaux.simpleUI
 
 
 ### Description
